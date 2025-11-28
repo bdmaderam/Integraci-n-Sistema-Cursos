@@ -683,7 +683,9 @@ sudo nginx -t
 
 ## 🔗 Enlaces Importantes
 
-- 🗂️ **Repositorio GitHub**: https://github.com/ozt07/Cloud08
+- 🗂️ **Repositorio GitHub Base de Datos - Activiad 7**: [https://github.com/ozt07/Cloud08](https://github.com/ozt07/sistema-cursos-universidad.git)
+- 🗂️ **Repositorio GitHub Api - Activiad 8**: [https://github.com/ozt07/Cloud08.git](https://github.com/ozt07/Cloud08.git)
+- 🗂️ **Repositorio GitHub Frondend - Activiad 9**: [https://github.com/ozt07/Cloud09.git](https://github.com/ozt07/Cloud09.git).
 - 🌐 **Frontend en AWS**: http://3.131.93.247
 - 🔌 **API en Render**: https://api-estudiantes-cursos.onrender.com
 - 🗄️ **Base de Datos Supabase**: https://vykgdjbpsqdqjtfrivzh.supabase.co
@@ -707,14 +709,6 @@ sudo nginx -t
 - ✅ Código fuente en GitHub
 - ✅ Scripts SQL documentados
 - ✅ Arquitectura cloud distribuida
-
----
-
-## 👥 Autor
-
-**Proyecto Académico**
-- Curso: Computación en la Nube
-- Actividad: 8 - Sistema de Gestión de Cursos Universitarios
 
 ---
 
